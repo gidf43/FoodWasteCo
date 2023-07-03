@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /vendor/
 node_modules/
 npm-debug.log
@@ -22,7 +22,6 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
-=======
 /node_modules
 /public/hot
 /public/storage
@@ -38,4 +37,5 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
->>>>>>> c72427c (commit1)
+=======
+>>>>>>> 1fd04a3 (Initial commit)
